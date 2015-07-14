@@ -1,4 +1,19 @@
 ---
+isBasedOnUrl: 'http://mashable.com/2015/07/14/mens-fashion-week-designers/?utm_cid=hp-hh-pri'
+inLanguage: en
+starred: false
+keywords:
+  - menswear
+  - brand
+  - reid
+  - orley
+  - designers
+  - coppens
+  - fashion
+  - geller
+  - cfda
+  - award
+description: "It's a man's world - at least for the next three days in New York City fashion circles. New York Fashion Week: Men's officially launches on Tuesday, the first show dedicated solely to the menswear market in New York."
 author: []
 related:
   - score: 0.6826206446
@@ -29,33 +44,23 @@ related:
     thumbnail_height: 2586
     thumbnail_url: 'https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/07/09/Production/Daily/Style/Images/Italy_Fashion_Gucci-01676.jpg'
     thumbnail_width: 3729
-publisher:
-  url: 'http://mashable.com'
-  name: Mashable
-  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
-  domain: mashable.com
-keywords:
-  - menswear
-  - brand
-  - reid
-  - orley
-  - designers
-  - coppens
-  - fashion
-  - geller
-  - cfda
-  - award
-description: "It's a man's world - at least for the next three days in New York City fashion circles. New York Fashion Week: Men's officially launches on Tuesday, the first show dedicated solely to the menswear market in New York."
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://mashable.com/2015/07/14/mens-fashion-week-designers/?utm_cid=hp-hh-pri'
 title: "5 designers you need to know for New York Fashion Week: Men's"
 datePublished: '2015-07-14T19:30:25.490Z'
-dateModified: '2015-07-14T19:30:25.490Z'
+dateModified: '2015-07-14T19:31:50.412Z'
 sourcePath: _posts/2015-07-14-5-designers-you-need-to-know-for-new-york-fashion-week-men.md
 published: true
-_context: 'http://schema.org'
+tags:
+  - 'jackets,'
+  - pants
+authors: []
+publisher:
+  name: Mashable
+  domain: mashable.com
+  url: 'http://mashable.com'
+  favicon: 'http://mashable.com/favicon.ico?v=m2Pmw8zNwl'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
 <article style=""><h1>5 designers you need to know for New York Fashion Week&amp;colon; Men's</h1><p>It's a man's world - at least for the next three days in New York City fashion circles&amp;period; New York Fashion Week&amp;colon; Men's officially launches on Tuesday&amp;comma; the first show dedicated solely to the menswear market in New York&amp;period;</p><img src="http://rack.1.mshcdn.com/media/ZgkyMDE1LzA3LzEzLzU1L0dldHR5SW1hZ2VzLjc0MDI4LmpwZwpwCXRodW1iCTEyMDB4OTYwMD4/6ffff1ec/b4a/GettyImages-463654362.jpg" /></article>
