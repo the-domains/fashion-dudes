@@ -1,25 +1,50 @@
-name: null
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Fashion Dudes
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+collections:
+  - filter:
+      notType:
+        type: WebPage
+    index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
 purpose:
   - name: engagement
-    item: null
     url: null
+    item: null
+color:
+  saturation: 0.9382979
+  brandStrength: 0
+  lightness: 0.5
+  brandColors: []
+  rhythmicContrast: 0
+typography_spectrum: 0.8297873
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
